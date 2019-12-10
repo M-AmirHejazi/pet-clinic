@@ -1,0 +1,5 @@
+com\brehon\petclinic\model\Pet.class
+com\brehon\petclinic\model\Vet.class
+com\brehon\petclinic\model\Person.class
+com\brehon\petclinic\model\Owner.class
+com\brehon\petclinic\model\PetType.class
